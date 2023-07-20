@@ -1,0 +1,39 @@
+17-july-2023
+
+Docker:
+
+Docker is an open-source platform that allows for streamlined application deployment and management through containerization.
+
+In Docker  they are 2concepts is there
+1.Image
+2.Container
+
+1.Image: It is acombination of brinary and librays that are used for a specific software application.
+
+2.Container: A running instances of an image is called a  Container.
+
+Virtulization: here we have a baremetal (h/w) on which we install the host os on the host os we install the hypervisor.Its means we can install guest os and on guest os we can run the software application that we want this technology enables us to run multiple os parallely on the server.
+
+Contarization: here we have a baremetal (h/w) on which we install the host os on the host os we install the Docker engine. its means we can run any application in the form of container. these containers are extremely light weight  and consumes very less amount of h/w resources.
+
+Docker Host:
+              The server where docker is installed is called asDocker Host.
+Docker cilent:
+                This is a software application that is resposible for accepting the commands from users and passwords them to a process is called Docker cilent.
+
+Docker Deamon: This is a background process its accepts the commands from the docker cilent and routes tnem to work on images  or containers or repository.
+
+Registry: This is the location where the dockerimages are stored. Its has 2 types
+
+1. public
+2.private
+
+
+
+
+
+
+
+
+
+
